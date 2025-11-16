@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "react-scripts": "3.0.1"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -34,7 +34,7 @@
     "enzyme": "^3.10.0",
     "enzyme-adapter-react-15": "^1.4.0",
     "expect.js": "^0.3.1",
-    "mocha": "^6.2.0",
+    "mocha": "^11.7.5",
     "react": "^15.6.2",
     "react-addons-test-utils": "^15.6.2",
     "react-dom": "^15.6.2",
